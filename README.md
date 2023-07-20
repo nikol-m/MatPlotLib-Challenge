@@ -1,5 +1,18 @@
 # MatPlotLib-Challenge
 
+Analysis
+
+Based on the data below, the following conclusions were made:
+- Most mice were treated with Capomulin and Ramicane, which were also the most successful treatments.
+- The correlation between mouse weight and tumor volume is 0.84, which is a strong positive correlation.
+- The correlation between mouse weight and average tumor volume is 0.95, which is a strong positive correlation.
+- Propriva was the least successful treatment because it was the least frequently tested
+- There mice test subjects were both male and females and there was almost an equal split between the two
+  sexes.
+- Infubinol was the only treatment that had an outlier.
+- The average tumor volume for mice treated with Capomulin and Ramicane was lower than the average tumor volume for    mice treated with Infubinol and Ceftamin.
+____________________________________________________
+
 What good is data without a good plot to tell the story?
 
 In this assignment, you’ll apply what you've learned about Matplotlib to a real-world situation and dataset.
